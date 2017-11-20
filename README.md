@@ -1,1 +1,1 @@
-# React Redux App ith Feather.js
+# React Redux App with Feather.js
